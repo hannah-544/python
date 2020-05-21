@@ -1,0 +1,18 @@
+#is operator
+#returns true if both variables are ofthe same object
+
+x = ["potatoes", "kales"]
+y = ["potatoes", "kales"]
+z = x
+
+print(x is z)
+
+#is not
+
+#returns true if both variables are not the same object
+
+x = ["potatoes", "kales"]
+y = ["potatoes", "kales"]
+z = x
+
+print(x is not z)
