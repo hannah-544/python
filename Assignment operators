@@ -1,0 +1,50 @@
+#examples of assignment operators
+#assignment operators deal with operands
+
+#assign 
+x=6
+print(x)
+
+#addition
+
+x=x+3
+print(x)
+
+#subtraction
+
+x=x-2
+print(x)
+
+#multiplication
+
+x= x*5
+
+print (x)
+
+#division
+
+x=x/3
+print(x)
+
+#modulus
+
+x=x%3
+print (x)
+
+#exponentation
+x=x**5
+print(x)
+
+#floor division
+
+x=x//3
+print(x)
+
+#AND	
+x = x & 3
+print(x)
+
+#Bitwise Or	
+x = x |3
+print (x)
+
