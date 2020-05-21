@@ -1,0 +1,40 @@
+
+# Examples of Relational Operators 
+
+x=10
+
+y=20
+
+#greater than or less than
+ 
+# x > y is False 
+
+print(x > y) 
+
+# x < y is True 
+
+print(x < y) 
+
+#equal to
+
+# x == y is False 
+
+print(x == y) 
+
+#not equal to
+
+# x != y is True 
+
+print(x != y)
+
+#greater than or equal to 
+ 
+# x >= y is False 
+
+print(x >= y) 
+
+#less than or equal to
+ 
+# x <= y is True 
+
+print(x <= y) 
